@@ -1,7 +1,6 @@
 # React-Projects
 Collection of projects built on the React library.
 
-[Visit Now](https://reactjs-projectss.vercel.app) 🚀
 
 ## 🖥️ Tech Stack
 **Frontend:**
@@ -20,14 +19,3 @@ Collection of projects built on the React library.
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![jwt](	https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
 
-**Cloud Storage:** [Cloudinary](https://cloudinary.com/)
-
-## Sneak Peek of Home Page 🙈 :
-![reactsite](https://user-images.githubusercontent.com/64949957/154028285-3f43860b-89b5-46a0-b6e7-322375c4a517.png)
-
-<h2>📬 Contact</h2>
-
-Feel free to reach me through the below handles if you'd like to contact me.
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sablee)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jigarsable.dev)
