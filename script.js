@@ -1,16 +1,16 @@
 document.addEventListener('DOMContentLoaded', () => {
     const projects = [
         {
-            name: 'Sentient Solutions',
-            view: 'https://sentientsolutions.io/',
-            code: 'https://github.com/BhargavSaiAkula',
-            preview: 'img/Project1.PNG'
-        },
-        {
             name: 'Akrisha Wedding & Event Planners',
             view: 'https://akrishaaevents.com/',
             code: 'https://github.com/BhargavSaiAkula',
             preview: 'img/Project2.PNG'
+        },
+        {
+            name: 'Beauty Swift',
+            view: 'https://beauty-swift.com/',
+            code: 'https://github.com/BhargavSaiAkula',
+            preview: 'img/Project1.PNG'
         },
         {
             name: 'AppSymfony Technologies',
