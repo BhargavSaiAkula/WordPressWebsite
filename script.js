@@ -1,5 +1,18 @@
 document.addEventListener('DOMContentLoaded', () => {
     const projects = [
+          
+        {
+            name: 'Sentient solutions',
+            view: 'https://sentientsolutions.io/',
+            code: 'https://github.com/BhargavSaiAkula',
+            preview: 'img/Project6.PNG'
+        }, 
+        {
+            name: 'CHIRON WELLNESS CENTER',
+            view: 'https://www.chironwellnesscenter.com/',
+            code: 'https://github.com/BhargavSaiAkula',
+            preview: 'img/Project5.PNG'
+        },
         {
             name: 'Akrisha Wedding & Event Planners',
             view: 'https://akrishaaevents.com/',
